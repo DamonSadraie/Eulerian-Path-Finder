@@ -1,4 +1,4 @@
-A Gif maker tool has been added that visualizes the calculated path.
+A Gif maker tool has been added that makes a gif, visualizing the calculated path.
 
 Warning: 
 whether user runs the exe file or runs the script, the running directory should be empty. 
